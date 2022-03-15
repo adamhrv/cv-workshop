@@ -1,6 +1,6 @@
 [submodule "3rdparty/yolov5"]
 	path = 3rdparty/yolov5
-	url = https://github.com/ultralytics/yolov5/
+	url = https://github.com/ultralytics/yolov5
 [submodule "3rdparty/deepface"]
 	path = 3rdparty/deepface
 	url = https://github.com/serengil/deepface
